@@ -1,0 +1,45 @@
+# Compiled C++ binaries and build artifacts
+build/
+bin/
+*.exe
+*.out
+*.o
+*.obj
+*.pdb
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE and editor settings
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# Local environment variables and secrets
+.env
+.env.*
+
+# Local experiment outputs (enable selected results explicitly when needed)
+*.csv.tmp
+
+# Large raw datasets kept locally
+/data/raw/census/USCensus1990.data.txt
+/data/raw/census/USCensus1990raw.data.txt
+/data/raw/dot/On_Time_Reporting_Carrier_On_Time_Performance_(1987_present)_2015_1.csv
+/data/raw/forestcover/covtype.data
+/data/raw/forestcover/covtype.data.gz
