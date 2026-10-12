@@ -43,3 +43,8 @@ desktop.ini
 /data/raw/dot/On_Time_Reporting_Carrier_On_Time_Performance_(1987_present)_2015_1.csv
 /data/raw/forestcover/covtype.data
 /data/raw/forestcover/covtype.data.gz
+# Compiled Linux executables generated in the repository root
+/main
+/mtp_forward_greedy_v2
+/mtp_forward_greedy_v3
+/mtp_kcenter_local_search_v2
